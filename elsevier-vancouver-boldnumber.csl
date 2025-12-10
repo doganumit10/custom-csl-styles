@@ -83,7 +83,7 @@
     <sort>
       <key variable="citation-number"/>
     </sort>
-    <layout font-weight="bold" delimiter="," prefix="[" suffix="]">
+    <layout prefix="[" suffix="]" font-weight="bold">
       <text variable="citation-number" font-weight="bold"/>
     </layout>
   </citation>
